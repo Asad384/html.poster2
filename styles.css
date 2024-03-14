@@ -1,0 +1,28 @@
+div{
+    background-color: black;
+}
+img
+{
+    
+    height: 400px;
+    width: 900px;
+    border: 5px solid white;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+.test
+{
+    text-align: center;
+    color: white;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-weight: 100px;
+}
+p{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+}
